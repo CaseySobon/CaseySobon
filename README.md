@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Project Portfolio</h1>
-<h3 align="center">Here is a collection of projects I am working on. These projects relate to software development and data science. </h3>
+<h3 align="center">Here is a collection of projects I am working on.<br> These projects relate to software development and data science. </h3>
 
 
 <h3 align="left">Languages I work with:</h3>
